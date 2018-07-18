@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NSD</string>
+    <string name="top_stories">Top Stories</string>
+    <string name="national_stories">National Stories</string>
+    <string name="state_stories">State Stories</string>
+    <string name="business_stories">Business Stories</string>
+    <string name="sports_stories">Sports Stories</string>
+    <string name="international_stories">International Stories</string>
+</resources>
